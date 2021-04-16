@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="354.008" height="354" viewBox="0 0 354.008 354">
+  <g id="Group_44" data-name="Group 44" transform="translate(-171 -186)">
+    <g id="Group_27" data-name="Group 27" transform="translate(-16 11)">
+      <path id="Path_13" data-name="Path 13" d="M0-177A177,177,0,0,1,176.4-14.617a177,177,0,0,1-147.262,189.2l-5.761-34.523A142,142,0,0,0,141.515-11.726,142,142,0,0,0,0-142Z" transform="translate(364 352)" fill="#1f78b4"/>
+      <path id="Path_14" data-name="Path 14" d="M29.133,174.586A177,177,0,0,1-53.5,168.72l10.579-33.363a142,142,0,0,0,66.295,4.706Z" transform="translate(364 352)" fill="#a6cee3"/>
+      <path id="Path_15" data-name="Path 15" d="M-53.5,168.72a177,177,0,0,1-96.922-75.437l29.745-18.446a142,142,0,0,0,77.757,60.52Z" transform="translate(364 352)" fill="#b2df8a"/>
+      <path id="Path_16" data-name="Path 16" d="M-150.424,93.283a177,177,0,0,1-4.237-179.358A177,177,0,0,1,0-177v35A142,142,0,0,0-124.078-69.055a142,142,0,0,0,3.4,143.892Z" transform="translate(364 352)" fill="#33a02c"/>
+    </g>
+    <text id="_100_" data-name="100%" transform="translate(278 383)" fill="#fff" font-size="55" font-family="MicrosoftSansSerif, Microsoft Sans Serif"><tspan x="0" y="0">100%</tspan></text>
+  </g>
+</svg>
